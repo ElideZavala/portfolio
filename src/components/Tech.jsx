@@ -14,7 +14,7 @@ const Tech = () => {
           </div>
         ))
       }
-    </div>
+    </div> 
   )
 }
 
