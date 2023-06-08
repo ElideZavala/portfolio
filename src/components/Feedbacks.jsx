@@ -22,6 +22,8 @@ const FeedbacksCard = ({ index, testimonial, name, designation, company, image }
             {designation} of {company}
           </p>
         </div>
+
+        <img />
       </div>
     </div>
   </motion.div>
